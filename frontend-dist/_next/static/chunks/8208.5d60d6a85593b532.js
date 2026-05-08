@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8208],{18208:a=>{a.exports=JSON.parse('[{"label":"Tenants","path":"/tenant/administration/tenants"},{"label":"Groups","path":"/tenant/administration/tenants/groups"},{"label":"Global Variables","path":"/tenant/administration/tenants/global-variables"}]')}}]);

@@ -1,0 +1,8 @@
+# SSL certs (sensitive)
+ssl/
+*.pem
+*.key
+*.crt
+
+# Runtime data
+*.log

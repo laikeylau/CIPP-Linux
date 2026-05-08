@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[928],{10928:e=>{e.exports=JSON.parse('[{"label":"Tenant Overview","path":"/tenant/administration/securescore"},{"label":"Table Overview","path":"/tenant/administration/securescore/table"}]')}}]);

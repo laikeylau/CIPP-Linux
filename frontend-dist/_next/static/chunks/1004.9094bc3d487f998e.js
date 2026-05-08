@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[1004],{11004:t=>{t.exports=JSON.parse('[{"label":"Alert Configuration","path":"/tenant/administration/alert-configuration"},{"label":"Snoozed Alerts","path":"/tenant/administration/alert-configuration/snoozed-alerts"}]')}}]);
