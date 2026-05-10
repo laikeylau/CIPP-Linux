@@ -6,3 +6,10 @@ ssl/
 
 # Runtime data
 *.log
+
+# Environment secrets
+.env
+ssl/
+*.pem
+*.key
+*.crt
