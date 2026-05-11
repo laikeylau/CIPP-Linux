@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/cipp/settings/password-config", [
+  "static/chunks/0cw6v482sb3v1.js",
+  "static/chunks/0ijqgruc~~af7.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/0n-eegrc4qhix.js",
+  "static/chunks/0ymrixj44t648.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/0mj805txp~s.q.js",
+  "static/chunks/0nrwf7rfbui51.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/0i75a_ud5qf.r.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/055_isxj9hbls.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0-ffi~hoabk7w.js"
+])

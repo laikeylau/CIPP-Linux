@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,764126,(t,a,e)=>{a.exports=[{label:"Standard & Drift Alignment",path:"/tenant/standards/alignment"},{label:"Templates",path:"/tenant/standards/templates"}]}]);

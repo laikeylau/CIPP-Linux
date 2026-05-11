@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/identity/administration/jit-admin-templates", [
+  "static/chunks/0ez1iebo~m.hj.js",
+  "static/chunks/0o2zealyex612.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/07~_fply0~sii.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/05ephy0wp8xfc.js",
+  "static/chunks/0j2f10fngxkpg.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/0so_l3-x7gq8q.js",
+  "static/chunks/02ylcup03z7pr.js",
+  "static/chunks/0cit6hy77n3o_.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0zfuq5.k27h_w.js"
+])

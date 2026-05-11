@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[7081],{27081:e=>{e.exports=JSON.parse('[{"label":"Policies","path":"/email/administration/exchange-retention/policies"},{"label":"Tags","path":"/email/administration/exchange-retention/tags"}]')}}]);

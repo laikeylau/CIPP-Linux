@@ -1,0 +1,22 @@
+__turbopack_load_page_chunks__("/email/tools/message-viewer", [
+  "static/chunks/159mlozapxkt8.js",
+  "static/chunks/0nl96-ayvk45r.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/0psavv1wys-wr.js",
+  "static/chunks/0bxsihez_cern.js",
+  "static/chunks/0mhbwiiv.x9b6.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/0g~r~wfx8xdmd.js",
+  "static/chunks/03.lrcud75.g0.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/1225sn.unr~.c.js",
+  "static/chunks/0zywuhye08-h_.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/0cit6hy77n3o_.js",
+  "static/chunks/0kcavh_~y0syd.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0~3gshgj_~c2e.js"
+])

@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/tenant/manage/history", [
+  "static/chunks/12ufn74a.l~8r.js",
+  "static/chunks/0psks2kd04h8j.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/14q.84~sqh1ih.js",
+  "static/chunks/0xfa4b6efe6n6.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/0knx91zdfn1eu.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/0qb03cw9kqtz..js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/0uwe~h2w2rvi3.js",
+  "static/chunks/0det5f83yjps1.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0t-z~ewzb~tyc.js"
+])

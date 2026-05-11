@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/teams-share/teams/list-team/add", [
+  "static/chunks/0e7x3uy~kl78k.js",
+  "static/chunks/12ufn74a.l~8r.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/0w3pxwl1fpgpk.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/0s3tkjk2.c5cy.js",
+  "static/chunks/0j625ons70ngh.js",
+  "static/chunks/0mrqscfjoihck.js",
+  "static/chunks/0_4m.8wo~18ck.js",
+  "static/chunks/11chro5j_xlq5.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-08f_h0z15go7z.js"
+])

@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/endpoint/MEM/reusable-settings", [
+  "static/chunks/0d4-l6xwo2h7u.js",
+  "static/chunks/0qvkqqi2rwyj~.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/0cm~z_m0bvbfo.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/0o~zhey5v3n~m.js",
+  "static/chunks/0nqo5wq8xsguk.js",
+  "static/chunks/0z9.vg7v-l41d.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/10k~6mt2hpep7.js",
+  "static/chunks/0-j6hf57o5pkm.js",
+  "static/chunks/02ylcup03z7pr.js",
+  "static/chunks/0fa9kp.~axq~v.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0l-aznr1nwsnt.js"
+])

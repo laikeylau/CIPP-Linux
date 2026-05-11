@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,830017,(a,e,t)=>{e.exports=[{label:"Overview",path:"/tenant/gdap-management/relationships/relationship"},{label:"Mappings",path:"/tenant/gdap-management/relationships/relationship/mappings"}]}]);

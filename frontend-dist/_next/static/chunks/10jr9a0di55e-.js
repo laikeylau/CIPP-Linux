@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/cipp/settings/siem", [
+  "static/chunks/17uvn8y5-8be9.js",
+  "static/chunks/12ufn74a.l~8r.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/0wx.xew~k8q~f.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/08j4s_6kpdinw.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/0zg3ut_afw2fq.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/03spr_p9ghbme.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/0_4m.8wo~18ck.js",
+  "static/chunks/08dz0~l9b3oj6.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0wou8rxo-upif.js"
+])

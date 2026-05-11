@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,529484,(t,e,a)=>{e.exports=[{label:"Directory Extensions",path:"/cipp/custom-data/directory-extensions"},{label:"Schema Extensions",path:"/cipp/custom-data/schema-extensions"},{label:"Mappings",path:"/cipp/custom-data/mappings"}]}]);

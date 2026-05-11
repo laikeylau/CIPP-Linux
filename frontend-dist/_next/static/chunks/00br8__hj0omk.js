@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,424785,(e,i,t)=>{i.exports=[{label:"Policies",path:"/email/administration/exchange-retention/policies"},{label:"Tags",path:"/email/administration/exchange-retention/tags"}]}]);

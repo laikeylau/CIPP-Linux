@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[4431],{64431:a=>{a.exports=JSON.parse('[{"label":"Overview","path":"/tenant/gdap-management/relationships/relationship"},{"label":"Mappings","path":"/tenant/gdap-management/relationships/relationship/mappings"}]')}}]);

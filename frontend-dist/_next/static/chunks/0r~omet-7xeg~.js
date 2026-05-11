@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,132452,(t,a,i)=>{a.exports=[{label:"Saved Logs",path:"/tenant/administration/audit-logs"},{label:"Log Searches",path:"/tenant/administration/audit-logs/searches"},{label:"Directory Audits",path:"/tenant/administration/audit-logs/directory-audits"}]}]);

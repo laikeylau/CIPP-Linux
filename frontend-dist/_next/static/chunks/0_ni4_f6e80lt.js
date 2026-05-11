@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,45134,(t,a,n)=>{a.exports=[{label:"Tenants",path:"/tenant/administration/tenants"},{label:"Groups",path:"/tenant/administration/tenants/groups"},{label:"Global Variables",path:"/tenant/administration/tenants/global-variables"}]}]);

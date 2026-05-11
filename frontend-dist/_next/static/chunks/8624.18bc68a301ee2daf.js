@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8624],{58624:s=>{s.exports=JSON.parse('[{"label":"Directory Extensions","path":"/cipp/custom-data/directory-extensions"},{"label":"Schema Extensions","path":"/cipp/custom-data/schema-extensions"},{"label":"Mappings","path":"/cipp/custom-data/mappings"}]')}}]);

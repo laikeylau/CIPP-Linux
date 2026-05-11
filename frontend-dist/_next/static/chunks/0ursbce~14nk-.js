@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/cipp/settings/backend", [
+  "static/chunks/0535zz29acrk-.js",
+  "static/chunks/12ufn74a.l~8r.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/0-2x87j-3_3a..js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/0e-vkk0fhe2h-.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/081-_-6ojbq.6.js",
+  "static/chunks/0mrqscfjoihck.js",
+  "static/chunks/0v5oj8e~fg~vr.js",
+  "static/chunks/0mj805txp~s.q.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0rqwca287xhtn.js"
+])

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5286],{75286:a=>{a.exports=JSON.parse('[{"label":"View App Registration","path":"/tenant/administration/applications/app-registration"},{"label":"Permissions","path":"/tenant/administration/applications/app-registration/permissions"}]')}}]);

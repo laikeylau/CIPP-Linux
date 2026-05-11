@@ -1,0 +1,20 @@
+__turbopack_load_page_chunks__("/security/defender/deployment", [
+  "static/chunks/12ufn74a.l~8r.js",
+  "static/chunks/0h5aqvi5zekw2.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/0_rv.equpsci6.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/0_7c5-ark.xwf.js",
+  "static/chunks/0hv3.uy_x_rtr.js",
+  "static/chunks/03spr_p9ghbme.js",
+  "static/chunks/0qoy71_bpe09h.js",
+  "static/chunks/085a~uapqw3.s.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/08j4s_6kpdinw.js",
+  "static/chunks/055_isxj9hbls.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0b695ispcvzuw.js"
+])

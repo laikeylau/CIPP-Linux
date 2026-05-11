@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3263],{93263:a=>{a.exports=JSON.parse('[{"label":"Overview","path":"/dashboardv2"},{"label":"Identity","path":"/dashboardv2/identity"},{"label":"Devices","path":"/dashboardv2/devices"},{"label":"Custom","path":"/dashboardv2/custom"},{"label":"Previous Dashboard Experience","path":"/dashboardv1"}]')}}]);

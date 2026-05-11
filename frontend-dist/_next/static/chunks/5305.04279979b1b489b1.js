@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[5305],{45305:e=>{e.exports=JSON.parse('[{"label":"View Group","path":"/identity/administration/groups/group"}]')}}]);

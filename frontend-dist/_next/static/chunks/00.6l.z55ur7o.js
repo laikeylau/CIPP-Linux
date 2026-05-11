@@ -1,0 +1,21 @@
+__turbopack_load_page_chunks__("/tenant/manage/applied-standards", [
+  "static/chunks/159ez.82h6dha.js",
+  "static/chunks/0ydnlj5wty8ol.js",
+  "static/chunks/0le_numephqc2.js",
+  "static/chunks/0csl5dlq7.ob3.js",
+  "static/chunks/0e6ox_zjn8eu~.js",
+  "static/chunks/04_pyj7_ahnqb.js",
+  "static/chunks/055t9d_.wnn6c.js",
+  "static/chunks/092_tz7.-qvlw.js",
+  "static/chunks/0.00fa12xh8.l.js",
+  "static/chunks/11wpu0y_y3~q~.js",
+  "static/chunks/05niykz~oyasr.js",
+  "static/chunks/0506~24wnb6ra.js",
+  "static/chunks/0g.ls-5yesul_.js",
+  "static/chunks/0z9.vg7v-l41d.js",
+  "static/chunks/0ybu473rrn1mu.js",
+  "static/chunks/02fwhia26.q-d.js",
+  "static/chunks/0o~zhey5v3n~m.js",
+  "static/chunks/0itih-gd4v-wd.css",
+  "static/chunks/turbopack-0xrdmfrp.a~i~.js"
+])

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9791],{99791:e=>{e.exports=JSON.parse('[{"label":"Generated Reports","path":"/tools/report-builder/generated"},{"label":"Templates","path":"/tools/report-builder/templates"}]')}}]);
