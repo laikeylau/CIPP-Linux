@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8461],{18461:e=>{e.exports=JSON.parse('[{"label":"View Device","path":"/endpoint/MEM/devices/device"}]')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[6452],{16452:a=>{a.exports=JSON.parse('[{"label":"Saved Logs","path":"/tenant/administration/audit-logs"},{"label":"Log Searches","path":"/tenant/administration/audit-logs/searches"},{"label":"Directory Audits","path":"/tenant/administration/audit-logs/directory-audits"}]')}}]);

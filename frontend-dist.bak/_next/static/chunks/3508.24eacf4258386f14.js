@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[3508],{73508:e=>{e.exports=JSON.parse('[{"label":"View Enterprise App","path":"/tenant/administration/applications/enterprise-app"},{"label":"Permissions","path":"/tenant/administration/applications/enterprise-app/permissions"}]')}}]);
